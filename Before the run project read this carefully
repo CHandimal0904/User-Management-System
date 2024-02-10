@@ -1,0 +1,9 @@
+
+
+Before the run project follow the below steps.
+
+01. setup the database and .env file
+02.run below commands
+	01. composer update
+	02. npm install
+	03. php artisan serve
